@@ -9,6 +9,8 @@ The electronics mount in the base, and are designed to fit the SKR Pico and a Ra
 
 The MCU mount plate is the "no inserts" variant of [Kanrog's Rook Mk1 design](https://www.printables.com/model/388353-rook-mk1-skr-pico-pi-zero-adapter/files).
 
+## Bill of Materials
+
 For assembly, use:
 - 2020 extrusion 240mm (x6)
 - 2020 extrusion 600mm (x2)
@@ -17,3 +19,7 @@ For assembly, use:
 - M2.5x6mm hex bolts (x8) - for mounting electronics
 - M5 T-nuts (x37)
 - M3 T-nuts (x6)
+
+## Design Source
+
+https://www.tinkercad.com/things/ggqOKI0i9KW-bdp-chassis
