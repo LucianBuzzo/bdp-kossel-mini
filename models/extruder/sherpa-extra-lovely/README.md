@@ -23,8 +23,8 @@ If you prefer this approach, print the `45deg-tower-mount.stl` and the `mounting
 - M3x16mm Button Socket Head Cap Screw	(x2)
 - M3x8mm Button Socket Head Cap Screw	(x2)
 - 7mm OD x 5mm ID x 0.5mm Thick - Spring Steel Shim Washer	(x1)
-- M3 Brass Heat Stake Threaded Insert - Short	(x2)
-- M3 Brass Heat Stake Threaded Insert - Long	(x3)
+- M3x4mm heat set insert	(x2)
+- M3x6mm heat set insert	(x3)
 
 ## Design Source
 

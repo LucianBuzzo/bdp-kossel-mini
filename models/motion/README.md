@@ -6,7 +6,7 @@ The motion system on the BDP uses 6mm belt, 300mm long MGN12H linear rails, mech
 
 You will need to print 3 each of `carriage.stl, `tensioner.stl`, `endstop-mount.stl` and `mgn12-endstop.stl`.
 
-The carriages use m3 6mm heat seat inserts, and the endstop mounts use m3 4mm heat seat inserts. 
+The carriages use m3 6mm heat seat inserts, and the endstop mounts use m3 4mm heat seat inserts. The endstops are designed around the RepRap/makerbot style endstop switches.
 
 The MGN12 endstop is [vale075's design from printables](https://www.printables.com/model/345798-mgn12-rail-stopperendstop), and the tensioner is [Kiolia's universal adjustable belt tensioner](https://www.printables.com/model/157225-universal-adjustable-belt-tensioner), also from printables.
 
@@ -14,6 +14,7 @@ The MGN12 endstop is [vale075's design from printables](https://www.printables.c
 
 - 6mm GT2 belt (x3)
 - 300mm MGN12H linear rail (x3)
+- RepRap mechanical endstop switches (x3)
 - M3x8mm hex bolts (x18)
 - M3x6mm hex bolts (x12)
 - M3x6mm brass heat set inserts (x6)
