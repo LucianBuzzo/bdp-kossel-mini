@@ -16,8 +16,8 @@ The MCU mount plate is the "no inserts" variant of [Kanrog's Rook Mk1 design](ht
 ## Bill of Materials
 
 For assembly, use:
-- 2020 extrusion 240mm (x6)
-- 2020 extrusion 600mm (x2)
+- 2020 extrusion 240mm (x9)
+- 2020 extrusion 600mm (x3)
 - M5x8mm Button Head hex bolts (x43)
 - M3x8mm hex bolts (x10)
 - M2.5x6mm hex bolts (x8) - for mounting electronics

@@ -27,8 +27,8 @@ The full bill of materials required to build this printer is listed below.
 - RepRap endstop switch (x3)
 - BMG gear kit
 - 235mm delta connecting arms (x6)
-- 2020 extrusion 240mm (x6)
-- 2020 extrusion 600mm (x2)
+- 2020 extrusion 240mm (x9)
+- 2020 extrusion 600mm (x3)
 - 6mm GT2 belt (approx. 4m)
 - 300mm MGN12H linear rail (x3)
 - 3010 axial fan (x1)
