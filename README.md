@@ -26,6 +26,7 @@ The full bill of materials required to build this printer is listed below.
 - C14 IEC power inlet
 - RepRap endstop switch (x3)
 - BMG gear kit
+- 235mm delta connecting arms (x6)
 - 2020 extrusion 240mm (x6)
 - 2020 extrusion 600mm (x2)
 - 6mm GT2 belt (approx. 4m)
@@ -44,6 +45,7 @@ The full bill of materials required to build this printer is listed below.
 - M5x8mm button Head hex bolt (x47)
 - M3x18mm button head hex bolt	(x2)
 - M3x16mm button head hex bolt	(x2)
+- m3x12mm button head hex bolt (x12)
 - M3x8mm button head hex bolt	(x2)
 - M3x14mm hex bolt (x2)
 - M3x12mm hex bolt (x2)
