@@ -19,3 +19,7 @@ The MGN12 endstop is [vale075's design from printables](https://www.printables.c
 - M3x6mm brass heat set inserts (x6)
 - M3x4mm brass heat set inserts (x6)
 - 4mm zip ties (x3)
+
+## Design Source
+
+https://www.tinkercad.com/things/a9pKTf634uS-bdp-motion-system

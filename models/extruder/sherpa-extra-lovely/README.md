@@ -25,3 +25,7 @@ If you prefer this approach, print the `45deg-tower-mount.stl` and the `mounting
 - 7mm OD x 5mm ID x 0.5mm Thick - Spring Steel Shim Washer	(x1)
 - M3 Brass Heat Stake Threaded Insert - Short	(x2)
 - M3 Brass Heat Stake Threaded Insert - Long	(x3)
+
+## Design Source
+
+https://www.tinkercad.com/things/eVswxnjzAfZ-sherpa-extra-lovely
