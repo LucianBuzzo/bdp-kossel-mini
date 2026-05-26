@@ -28,3 +28,15 @@ Release impact:
 - A breaking change creates a major release. Mark it with `!`, such as `feat!: change frame extrusion length`, or include a `BREAKING CHANGE:` footer.
 
 Documentation-only and maintenance commits may still appear in the changelog depending on release-please configuration and commit type, so keep messages clear and user-facing.
+
+## Bill of Materials
+
+The BOM is maintained as component CSV files in `bom/`.
+
+To update the BOM, edit the relevant component CSV and regenerate the compiled outputs:
+
+```sh
+python3 scripts/generate-bom.py
+```
+
+Commit the edited component CSV plus the regenerated `bom/README.md` and `bom/combined.csv`.

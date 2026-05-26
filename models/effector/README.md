@@ -9,18 +9,7 @@ Assembly also requires three 4mmx30mm Carbon Fiber Tubes.
 
 ## Bill of Materials
 
-- Triangle Lab Dragon Ace Volcano hotend
-- 3010 axial fan (x1)
-- 3010 blower fan (x2)
-- 4mmx30mm Carbon Fiber Tubes (x3)
-- M3x6x5mm heat set inserts (x6) 
-- M2x2.5x3.2mm heat set inserts (x4)
-- M2x4mm hex bolts (x4)
-- M3x14mm hex bolts (x2)
-- M3x12mm hex bolts (x2)
-- M3 square nuts (x2)
-- M2.5x6mm hex bolts (x8)
-- Two part epoxy
+See the [effector BOM](../../bom/effector.csv) and the generated [compiled BOM](../../bom/README.md).
 
 ## Assembly Guide
 

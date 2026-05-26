@@ -18,13 +18,7 @@ If you prefer this approach, print the `45deg-tower-mount.stl` and the `mounting
 
 ## Bill of Materials
 
-- BMG gear kit
-- M3x18mm Button Socket Head Cap Screw	(x2)
-- M3x16mm Button Socket Head Cap Screw	(x2)
-- M3x8mm Button Socket Head Cap Screw	(x2)
-- 7mm OD x 5mm ID x 0.5mm Thick - Spring Steel Shim Washer	(x1)
-- M3x4mm heat set insert	(x2)
-- M3x6mm heat set insert	(x3)
+See the [extruder BOM](../../../bom/extruder.csv) and the generated [compiled BOM](../../../bom/README.md).
 
 ## Design Source
 

@@ -12,14 +12,7 @@ The MGN12 endstop is [vale075's design from printables](https://www.printables.c
 
 ## Bill of Materials
 
-- 6mm GT2 belt (x3)
-- 300mm MGN12H linear rail (x3)
-- RepRap mechanical endstop switches (x3)
-- M3x8mm hex bolts (x18)
-- M3x6mm hex bolts (x12)
-- M3x6mm brass heat set inserts (x6)
-- M3x4mm brass heat set inserts (x6)
-- 4mm zip ties (x3)
+See the [motion system BOM](../../bom/motion.csv) and the generated [compiled BOM](../../bom/README.md).
 
 ## Design Source
 

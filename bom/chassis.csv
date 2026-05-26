@@ -1,0 +1,9 @@
+part,quantity,unit,spec,notes
+2020 extrusion,9,pcs,240mm,
+2020 extrusion,3,pcs,600mm,
+M5 T-nut,43,pcs,,
+M3 T-nut,6,pcs,,
+M3 hex nut,3,pcs,,for the bed mounts
+M5x8mm button head hex bolt,43,pcs,,
+M3x8mm hex bolt,10,pcs,,
+M2.5x6mm hex bolt,8,pcs,,for mounting electronics

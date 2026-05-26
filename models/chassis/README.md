@@ -3,7 +3,7 @@
 ![Chassis](chassis.png)
 
 The chassis is designed around the original Kossel 2020 designs.
-You'll need 3 x `frame-top.stl`, 3 x `frame-bottom.stl` and 3 x `foot.stl` to print the frame.
+You'll need 3 x `frame-top.stl`, 3 x `frame-motor.stl` and 3 x `foot.stl` to print the frame.
 
 For mounting the bed, print 3 x `bed-mount-base.stl` and 3 x `bed-mount-knob.stl`.
 
@@ -15,15 +15,7 @@ The MCU mount plate is the "no inserts" variant of [Kanrog's Rook Mk1 design](ht
 
 ## Bill of Materials
 
-For assembly, use:
-- 2020 extrusion 240mm (x9)
-- 2020 extrusion 600mm (x3)
-- M5x8mm Button Head hex bolts (x43)
-- M3x8mm hex bolts (x10)
-- M2.5x6mm hex bolts (x8) - for mounting electronics
-- M5 T-nuts (x43)
-- M3 T-nuts (x6)
-- M3 hex nuts (x3) - for the bed mounts
+See the [chassis BOM](../../bom/chassis.csv) and the generated [compiled BOM](../../bom/README.md).
 
 ## Design Source
 
