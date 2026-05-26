@@ -1,6 +1,6 @@
 # BDP Kossel Mini
 
-<img src="bdp-kossel.jpg" alt="Description" style="max-height: 500px;">
+<img src="bdp-kossel.jpg" alt="BDP Kossel Mini delta printer" style="max-height: 500px;">
 
 A modern take on the Kossel Mini delta printer using 2020 extrusions, running on an SKR Pico, and a Raspberry Pi Zero, powered by a meanwell UHP-350-24 PSU.
 

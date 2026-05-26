@@ -22,7 +22,7 @@ Assembly also requires three 4mmx30mm Carbon Fiber Tubes.
 - M2.5x6mm hex bolts (x8)
 - Two part epoxy
 
-# Assembly Guide
+## Assembly Guide
 
 1. Print the following parts:
     - `top-plate.stl` (x1)
