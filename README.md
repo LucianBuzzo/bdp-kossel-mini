@@ -59,6 +59,14 @@ The full bill of materials required to build this printer is listed below.
 
 For wiring you will also need 18AWG (for power) and 24AWG silicone wire and JST connectors. I also used 1/4 inch split sleeving and paracord to keep everything neat and tidy.
 
+## Design Source and Exports
+
+The canonical CAD source for this project is the linked Tinkercad design in each component README.
+
+The STL files in this repository are exported from those Tinkercad designs and included for convenience so a known buildable version is available without needing to re-export the CAD.
+
+To modify a part, update the relevant Tinkercad design, export new STL files, replace the files in this repository, and update the component README if the change affects print count, assembly, or the BOM.
+
 ## License
 
 Original BDP Kossel Mini content is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE).
