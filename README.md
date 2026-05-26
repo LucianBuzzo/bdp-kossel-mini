@@ -61,4 +61,6 @@ For wiring you will also need 18AWG (for power) and 24AWG silicone wire and JST 
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE).
+Original BDP Kossel Mini content is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE).
+
+Some included models are remixes or reused parts with their own license terms. See [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md) for attribution and per-file licensing.
