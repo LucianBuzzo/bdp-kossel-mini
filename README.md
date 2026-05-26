@@ -9,6 +9,7 @@ A modern take on the Kossel Mini delta printer using 2020 extrusions, running on
 The major components of the printer are split into separate folders. Follow the instructions contained in each of them:
 - [Chassis](./models/chassis/README.md)
 - [Effector](./models/effector/README.md)
+- [Extruder](./models/extruder/sherpa-extra-lovely/README.md)
 - [Motion](./models/motion/README.md)
 - [PSU](./models/PSU/README.md)
 
@@ -57,3 +58,7 @@ The full bill of materials required to build this printer is listed below.
 - 4mm zip ties (x3)
 
 For wiring you will also need 18AWG (for power) and 24AWG silicone wire and JST connectors. I also used 1/4 inch split sleeving and paracord to keep everything neat and tidy.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE).

@@ -5,14 +5,14 @@
 The BDP effector is built around the original Kossel 2020 design, retaining the same arm spacing.
 It's designed around the Triangle Lab Dragon Ace Volcano hotend ([This one specifically](https://jb3d.uk/product/dav/)), but could be adapted to support other hotends with the same mounting pattern by modifying the Z height of the cooling ducts.
 Cooling is provided by a 3010 axial fan for the hotend, and two 3010 blower fans for part cooling.
-Assembly also requires three 4mmx31mm Carbon Fiber Tubes.
+Assembly also requires three 4mmx30mm Carbon Fiber Tubes.
 
 ## Bill of Materials
 
 - Triangle Lab Dragon Ace Volcano hotend
 - 3010 axial fan (x1)
 - 3010 blower fan (x2)
-- 4mmx31mm Carbon Fiber Tubes (x3)
+- 4mmx30mm Carbon Fiber Tubes (x3)
 - M3x6x5mm heat set inserts (x6) 
 - M2x2.5x3.2mm heat set inserts (x4)
 - M2x4mm hex bolts (x4)
@@ -29,7 +29,7 @@ Assembly also requires three 4mmx31mm Carbon Fiber Tubes.
     - `bottom-plate.stl` (x1)
     - `duct.stl` (x2)
     - `glue-up-jig.stl` (x1)
-2. Cut the carbon fiber tubes to 31mm, and clean the ends with a file or sandpaper. Make sure to wear a mask and gloves when working with carbon fiber, as the dust is nasty and makes your skin itch! I recommend keeping everything wet when cutting and sanding to minimize dust.
+2. Cut the carbon fiber tubes to 30mm, and clean the ends with a file or sandpaper. Make sure to wear a mask and gloves when working with carbon fiber, as the dust is nasty and makes your skin itch! I recommend keeping everything wet when cutting and sanding to minimize dust.
 3. Bolt the top and bottom plate to the glue up jig. This will keep the two plates perfectly parallel while you glue the carbon fiber tubes in place.
 ![Glue up jig](glue-up-jig.png)
 4. Mix up your epoxy and apply a small amount to the tube socket in the top plate, and a small amount to the bottom end of the carbon fiber tube. Slide the tube in through the hole in the bottom plate and insert the tube into the socket in the top plate, ensuring it's firmly seated, then wipe away any excess epoxy. Repeat for all three tubes.
