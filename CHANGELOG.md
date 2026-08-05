@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/LucianBuzzo/bdp-kossel-mini/compare/bdp-kossel-mini-v0.2.0...bdp-kossel-mini-v0.2.1) (2026-08-05)
+
+
+### Bug Fixes
+
+* improve effector build image quality ([2987ef1](https://github.com/LucianBuzzo/bdp-kossel-mini/commit/2987ef18b84f928034320ab55ab45988ace0ce6f))
+
 ## [0.2.0](https://github.com/LucianBuzzo/bdp-kossel-mini/compare/bdp-kossel-mini-v0.1.0...bdp-kossel-mini-v0.2.0) (2026-05-26)
 
 
