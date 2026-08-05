@@ -20,9 +20,9 @@ See the [effector BOM](../../bom/effector.csv) and the generated [compiled BOM](
     - `glue-up-jig.stl` (x1)
 2. Cut the carbon fiber tubes to 30mm, and clean the ends with a file or sandpaper. Make sure to wear a mask and gloves when working with carbon fiber, as the dust is nasty and makes your skin itch! I recommend keeping everything wet when cutting and sanding to minimize dust.
 3. Bolt the top and bottom plate to the glue up jig. This will keep the two plates perfectly parallel while you glue the carbon fiber tubes in place.
-![Glue up jig](glue-up-jig.png)
+![Glue up jig](glue-up-jig.jpg)
 4. Mix up your epoxy and apply a small amount to the tube socket in the top plate, and a small amount to the bottom end of the carbon fiber tube. Slide the tube in through the hole in the bottom plate and insert the tube into the socket in the top plate, ensuring it's firmly seated, then wipe away any excess epoxy. Repeat for all three tubes.
-![Glue up complete](glue-up-complete.png)
+![Glue up complete](glue-up-complete.jpg)
 5. Let the epoxy cure for at least 24 hours, then remove the glue up jig.
 6. Press the M3 heat set inserts into the lateral con rod sockets on the bottom plate.
 7. Press the M2 heat set inserts into the duct mounting holes on the underside of the bottom plate.
